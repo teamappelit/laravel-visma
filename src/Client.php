@@ -1,7 +1,5 @@
 <?php
 
-declare(strict_types=1);
-
 namespace Webparking\LaravelVisma;
 
 use League\OAuth2\Client\Provider\GenericProvider;
